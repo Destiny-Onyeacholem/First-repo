@@ -1,6 +1,3 @@
 # First-repo
 Just created my first ever repo!!!
-
-
-## Subheader
-Watch tutorial on Youtube
+Created: 30/9/2026 11:54
